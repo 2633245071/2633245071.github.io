@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2023/02/07/2023-2-1-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/02/07/2023-2-1-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><h3 id="这是三级标题"><a href="#这是三级标题" class="headerlink" title="这是三级标题"></a>这是三级标题</h3><p><strong>加粗</strong><br><em>斜体</em><br><em><strong>斜体加粗</strong></em><br><del>删除线</del></p><blockquote><p>这是引用内容</p><blockquote><p>这是引用内容</p><blockquote><p>这是引用内容</p></blockquote></blockquote></blockquote><hr><hr><ul><li>列表</li></ul><ul><li>列表</li></ul><ul><li>列表</li></ul><table><thead><tr><th>第一</th><th>第二</th><th>第三</th></tr></thead><tbody><tr><td>第一行</td><td>第一行</td><td>第一行</td></tr><tr><td>第二行</td><td>第二行</td><td>第二行</td></tr></tbody></table><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">    <span class="meta">&lt;!DOCTYPE <span class="keyword">html</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">html</span> <span class="attr">lang</span>=<span class="string">&quot;en&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">head</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">charset</span>=<span class="string">&quot;UTF-8&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">http-equiv</span>=<span class="string">&quot;X-UA-Compatible&quot;</span> <span class="attr">content</span>=<span class="string">&quot;IE=edge&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">meta</span> <span class="attr">name</span>=<span class="string">&quot;viewport&quot;</span> <span class="attr">content</span>=<span class="string">&quot;width=device-width, initial-scale=1.0&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">title</span>&gt;</span>Document<span class="tag">&lt;/<span class="name">title</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">head</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line">    </span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure><div class="">你的一些代码...</div><script>你的一些代码...</script><p>测试完毕</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日记加密</title>
+      <link href="/2023/02/04/2023-2-4-%E6%B5%8B%E8%AF%95%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+      <url>/2023/02/04/2023-2-4-%E6%B5%8B%E8%AF%95%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="b01f5dfc974c02b93e417074735277664454b475fc88e5eec52c5b9bfde5fc18">09a8ee437b50acfc3f45c07dc4967931a042a5d9488fd683f3f1ac859ec2ea9e491eb76f978fc19f578b3df7e8d8bac7b4a7ad716967f35eddcffc1430a3a62b82befd80ea6d418d2f01d379b575eafba3597ae0950264d4028ae7285acbfdc117cae9fe062c0a08b3b6b8dea64d3bcd8f372285db931ef09c7f0b0841f2f92cd3b97fb271dc4ec373ce28976bd9def00266f72b5b455f69b55660801250b2e9c4ac0e77e475b1ac77743c9a43ff35a32a3d7c184a2a3e309e66bbc44e0509c246e6419fc27dedfd125cc3dc157a706c23561d43b0fa8776ef867c6bbe4f2bd82353d56f1e410c986b3ca5426e5bf8f55aba3645666a312a4b34cc5e3cd542d315a0e704ca99fbc13c5bce9b8659713733c9be3a6b8a49e01ad697d99544848bb9456fa3af7310ab53493d10d3655f9712fb7d5bf7bf604723d5f7cfd878ac8c</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-up">      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-up">您好, 这里需要密码.输入密码然后回车哦！</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 作为日记加密 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
